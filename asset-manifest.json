@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Mini-Habit-Tracker/static/css/main.1617bd59.chunk.css",
+    "main.js": "/Mini-Habit-Tracker/static/js/main.fcc155d7.chunk.js",
+    "main.js.map": "/Mini-Habit-Tracker/static/js/main.fcc155d7.chunk.js.map",
+    "runtime-main.js": "/Mini-Habit-Tracker/static/js/runtime-main.f0926fa8.js",
+    "runtime-main.js.map": "/Mini-Habit-Tracker/static/js/runtime-main.f0926fa8.js.map",
+    "static/js/2.28e4f9a0.chunk.js": "/Mini-Habit-Tracker/static/js/2.28e4f9a0.chunk.js",
+    "static/js/2.28e4f9a0.chunk.js.map": "/Mini-Habit-Tracker/static/js/2.28e4f9a0.chunk.js.map",
+    "index.html": "/Mini-Habit-Tracker/index.html",
+    "static/css/main.1617bd59.chunk.css.map": "/Mini-Habit-Tracker/static/css/main.1617bd59.chunk.css.map",
+    "static/js/2.28e4f9a0.chunk.js.LICENSE.txt": "/Mini-Habit-Tracker/static/js/2.28e4f9a0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f0926fa8.js",
+    "static/js/2.28e4f9a0.chunk.js",
+    "static/css/main.1617bd59.chunk.css",
+    "static/js/main.fcc155d7.chunk.js"
+  ]
+}
